@@ -34,10 +34,12 @@
 
 #### Трасса 1
 
-![tarakan1_gif](https://github.com/fluke88/neuro-race-python/assets/84039753/194e54af-3d10-4c7d-98de-e0316bcc62cc)
+![293001208-194e54af-3d10-4c7d-98de-e0316bcc62cc](https://github.com/fluke88/neuro-race-python/assets/170002793/9e80b44f-b2db-4d23-aff4-d667d13df536)
+
 
 #### Трасса 2
 
-![tarakan2_gif](https://github.com/fluke88/neuro-race-python/assets/84039753/b0f813df-24b8-4e91-a9f5-39279b0004a5)
+![293034543-b0f813df-24b8-4e91-a9f5-39279b0004a5](https://github.com/fluke88/neuro-race-python/assets/170002793/6d9103da-33db-417a-a08c-37786b6adab0)
+
 
 
